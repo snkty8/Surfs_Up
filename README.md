@@ -32,7 +32,7 @@ This analysis shows temperature data for the months of June and Decemeber in Oah
 ![image](https://github.com/snkty8/Surfs_Up/blob/main/Resources/June_precipitation_stats.png)
 
 - Histogram for Precipitation Stats for June
-![image]()https://github.com/snkty8/Surfs_Up/blob/main/Resources/June_precipitation_hist.png
+![image](https://github.com/snkty8/Surfs_Up/blob/main/Resources/June_precipitation_hist.png)
 
 - Precipitation Stats for December
 ![image](https://github.com/snkty8/Surfs_Up/blob/main/Resources/December_precipitation_stats.png)
